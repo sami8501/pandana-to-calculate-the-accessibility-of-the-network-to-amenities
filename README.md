@@ -1,5 +1,3 @@
-Voici un projet de fichier README pour le package Pandana, axé sur l'étude de l'accessibilité aux aménités, basé sur le notebook Python fourni :
-
 # Pandana - Analyse de l'accessibilité aux aménités urbaines
 
 Pandana est une bibliothèque Python puissante pour l'analyse de l'accessibilité du réseau urbain. Ce README se concentre sur l'utilisation de Pandana pour étudier l'accessibilité aux aménités urbaines, en utilisant les données d'OpenStreetMap (OSM).
